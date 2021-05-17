@@ -9,7 +9,7 @@
  run terminal in the folder
  
 sudo bash -x [bash script] [python script] [URL]
-example: sudo bash -x cron1.sh health.py https://example=service.fsecure.come/health 
+example: sudo bash -x cron1.sh health.py https://example=service.fsecure.com/health 
 
 
  Check that: 
